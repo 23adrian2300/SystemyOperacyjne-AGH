@@ -1,0 +1,5 @@
+Zadanie 1.
+Zrobione  w calosc
+
+Zadanie 2. 
+Wypisyawnie Listy uzytkownikow odbywa sie na serwerze a nie na terminalu w ktorym jest klient

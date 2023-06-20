@@ -1,0 +1,11 @@
+Zestaw zrealizowny na 80%, nie wykonalem zadania 1
+
+Zadanie 1.
+Nie zrealizowane
+
+Zadanie 2. 
+Raport zapisany w katalogu z zadaniem. Make od razu uruchamia testy i zapisuje do pilku.
+
+Zadanie 3.
+Raport zapisany w katalogu z zadaniem. Make od razu uruchamia testy i zapisuje do pilku.
+Ustawilem takze spore wielkosci dla buforow aby uniknac przeplnienia

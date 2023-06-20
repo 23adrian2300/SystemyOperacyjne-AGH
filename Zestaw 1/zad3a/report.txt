@@ -1,0 +1,85 @@
+report_static
+
+[init 5]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[count wc_library.c]: Real time: 0.01021s User time: 0.00000s System time: 0.00000s 
+[count wc_library.h]: Real time: 0.00809s User time: 0.00000s System time: 0.00000s 
+[count test]: Real time: 0.00861s User time: 0.00000s System time: 0.00000s 
+[count Makefile]: Real time: 0.00461s User time: 0.00000s System time: 0.00000s 
+[count REPL_wc_library.c]: Real time: 0.01233s User time: 0.00000s System time: 0.00000s 
+[show 0]:  100  279 2757 wc_library.c
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[show 1]:  26  65 615 wc_library.h
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[show 2]:  17  39 217 test
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[show 3]:   63  146 1246 Makefile
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[show 4]:  320  783 9288 REPL_wc_library.c
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 0]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 1]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 2]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 3]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 4]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[destroy]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[exit]: Exiting... 
+
+-------------------------------------------------------------------------------------------------
+report_shared
+
+[init 5]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[count wc_library.c]: Real time: 0.00181s User time: 0.00000s System time: 0.00000s 
+[count wc_library.h]: Real time: 0.00335s User time: 0.00000s System time: 0.00000s 
+[count test]: Real time: 0.00312s User time: 0.00000s System time: 0.00000s 
+[count Makefile]: Real time: 0.00120s User time: 0.00000s System time: 0.00000s 
+[count REPL_wc_library.c]: Real time: 0.00405s User time: 0.00000s System time: 0.00000s 
+[show 0]:  100  279 2757 wc_library.c
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[show 1]:  26  65 615 wc_library.h
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[show 2]:  17  39 217 test
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[show 3]:   63  146 1246 Makefile
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[show 4]:  320  783 9288 REPL_wc_library.c
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 0]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 1]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 2]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 3]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 4]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[destroy]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[exit]: Exiting... 
+
+------------------------------------------------------------------------------
+report_dynamic
+
+[init 5]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[count wc_library.c]: Real time: 0.00419s User time: 0.00000s System time: 0.00000s 
+[count wc_library.h]: Real time: 0.00160s User time: 0.00000s System time: 0.00000s 
+[count test]: Real time: 0.00544s User time: 0.00000s System time: 0.00000s 
+[count Makefile]: Real time: 0.01050s User time: 0.00000s System time: 0.00000s 
+[count REPL_wc_library.c]: Real time: 0.00378s User time: 0.00000s System time: 0.00000s 
+[show 0]:  100  279 2757 wc_library.c
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[show 1]:  26  65 615 wc_library.h
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[show 2]:  17  39 217 test
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[show 3]:   63  146 1246 Makefile
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[show 4]:  320  783 9288 REPL_wc_library.c
+ Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 0]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 1]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 2]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 3]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[delete index 4]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[destroy]: Real time: 0.00000s User time: 0.00000s System time: 0.00000s 
+[exit]: Exiting... 
+
+------------------------------------------------------------------------------------
+Podsumowanie i anliza:
+Biblioteka statyczna wydaje sie byc najwolniejsza. Dynamiczna i wspoldzielona wydaja sie byc zblizone do siebie.
+Wyniki systemowe oraz czas uzytykownika sa zbyt male aby zostaly zarejestrowane. Ostatecznie najszybsza wydaje sie
+biblioteka wspoldzielona ale sa to minimlane roznice

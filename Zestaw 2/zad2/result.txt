@@ -1,0 +1,30 @@
+-----------------
+Wynik dzialania dla char_reverse
+-----------------
+k
+o
+r
+9871
+
+.eibot op einkset ob ,ejusipo i ezdiW
+
+eibodzo jelac w awt csonkeip sizD .licarts eic otK
+
+,eiwod eis oklyt net ,cinec abezrt eic elI
+
+.eiwordz kaj setsej yt !ajom onzyzcjO !owtiL
+-----------------
+Wynik dzialania dla block_reverse
+-----------------
+k
+o
+r
+9871
+
+.eibot op einkset ob ,ejusipo i ezdiW
+
+eibodzo jelac w awt csonkeip sizD .licarts eic otK
+
+,eiwod eis oklyt net ,cinec abezrt eic elI
+
+.eiwordz kaj setsej yt !ajom onzyzcjO !owtiL

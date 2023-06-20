@@ -1,0 +1,10 @@
+Zadanie nalezy wywolac z argumentami:
+M - liczba fryzjerow
+N - liczba foteli
+P - liczba miejsc w poczekalni
+F - liczba dostepnych fryzur w salonie
+
+Przykladowe wywolanie:
+./main 2 1 1 10
+
+Czasy dla kazdej z F fryzur losowane sa z ustalonego przedzialu

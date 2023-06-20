@@ -1,0 +1,2 @@
+char_reverse: 0.000204 s
+block_reverse: 0.000028 s

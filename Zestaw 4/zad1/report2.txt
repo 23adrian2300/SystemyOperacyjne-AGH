@@ -1,0 +1,44 @@
+Przykladowe wyniki:
+|FORK TEST|
+HANDLER:
+PID: 2999 Raising signal
+PID: 2999 Received signal: 10
+PID: 3000 Raising signal
+PID: 3000 Received signal: 10
+IGNORE:
+PID: 3003 Raising signal
+PID: 3004 Raising signal
+MASK:
+PID: 3007 Raising signal
+PENDING:
+PID: 3011 Raising signal
+PID: 3011 Signal is pending
+PID: 3012 Signal is not pending
+
+|TEST EXECL|
+IGNORE:
+PID: 3016 Raising signal
+PID: 3016 Raising signal
+MASK:
+PID: 3019 Raising signal
+PENDING:
+PID: 3022 Raising signal
+PID: 3022 Signal is pending
+PID: 3022 Signal is pending
+
+Wnioski:
+
+Dla fork:
+-jesli ignore to sygnal w obydwu jest ignorowany 
+- dla handlera w obydwu wywoluje sie  
+- dla mask maska w obydwu dziala 
+- dla pending oczekujacy sygnal jest widoczny w rodzicu ale w dziecku juz nie jest widoczny
+
+
+Dla exec:
+-dla ignore sygnal w obydwu jest ignorowany
+-dla mask maska w obydwu dziala 
+-dla pending oczekujacy sygnal w obydwu jest widoczny
+
+
+

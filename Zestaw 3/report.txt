@@ -1,0 +1,16 @@
+W kazdym zadaniu dodano w Makefile testy.
+W zadaniu jeden i dwa wywolwane za pomoca: make test
+W zadaniu 3 mozna osobno uruchomic testy: make test* gdzie * to numer testu od 1 do 9
+Mozna takze uruchomic wszytskie testy za pomoca make tests.
+Osobno dodano test10 wyszukujacy wszytsko ze sciezki ~ uruchamiany za pomoca make test10
+
+Zadanie 1.
+Funkcja tworzy n procsow gdzie n to podana przy wywolaniu liczba
+
+Zadanie 2.
+Testowano dla przypadkow brzegowych i nie wystepowaly problemy
+
+Zadanie 3.
+Funkcja przeszukuje rekurencyjnie katalogi. Pomija podane w zadaniu przypadki.
+Dla test10 wyszukiwania trwaja znacza chwile lecz wyniki wydaja sie byc poprawne.
+Dla wyszukania /root wystepuje odmowa dostepu

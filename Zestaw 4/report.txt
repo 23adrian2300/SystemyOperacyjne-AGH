@@ -1,0 +1,16 @@
+Zestaw wykonany w 80% (brak zadania 2)
+
+Zadanie 1.
+Wyniki dzianie sa zapisywane do plikow fork.exe oraz exec.exe
+Raport zawiera przykladowe wyniki oraz krotkie wnioski dotyczace wynikow
+
+Zadanie 2.
+Nie zostalo zrobione
+
+Zadanie 3.
+Najpierw uruchamiam program catcher, wyswietlony przez niego pid wykorzystuje w wywolywaniu sendera w osobnym terminalu
+Catcher odbiera sygnal i wykonuje jedna z 5 rzeczy, przy czym dla 5 konczy dzialanie. Sender moze wyslac wiecej niz jeden sygnal.
+Wyswietlane przez sender informacje moga sie roznic, w terminalu systemowym kolejnosc jest poprawna, natomiast w VSC pojawiaja sie w innej kolejnosci.
+
+Inne informacje:
+W zaleznosci od srodowiska programistycznego moga pojawiac sie rozne komunikaty, np VSC podkresla np sigation a CLion juz nie.

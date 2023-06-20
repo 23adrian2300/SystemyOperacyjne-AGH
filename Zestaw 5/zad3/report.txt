@@ -1,0 +1,24 @@
+RESULT: 3.142592
+N: 10
+Width: 0.0010000000
+CPU time: 0.001046 s
+Real time: 0.008652 s
+
+RESULT: 3.142594
+N: 100
+Width: 0.0010000000
+CPU time: 0.005013 s
+Real time: 0.134029 s
+
+RESULT: 3.150589
+N: 1000
+Width: 0.0010000000
+CPU time: 0.041945 s
+Real time: 1.471631 s
+
+RESULT: 3.141588
+N: 1050
+Width: 0.0000000008
+CPU time: 0.047313 s
+Real time: 11.049458 s
+

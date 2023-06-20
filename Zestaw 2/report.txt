@@ -1,0 +1,19 @@
+Zadanie 1.
+Pomiary zapisane w pomiar_zad_1.txt
+Wyniki dzilania w pliku result.txt a plik ktorym zamieniamy to test.txt
+Oczywiscie jest to proponowany plik tylko na potrzeby testu
+
+
+Zadanie 2.
+Pomiary zapisywane sa w pomiar_zad_2.txt
+Wyniki zapisane w result.txt a plik ktory obracamy to test.txt
+Jest to tylko propozycja do szybszego sprawdzenia poprawnosci
+
+
+Zadanie 3.
+Dziala tak samo jak wc --bytes *
+
+
+Zadanie 4.
+Program dziala analogicznie do find nazwa_pliku | xargs wc --bytes
+Wyniki programu oraz funkcji sa takie same, z tym ze funkcja liczy katalogi jako 0

@@ -1,0 +1,28 @@
+Litw#! Ojczyzn# m#ja! ty jestes jak zdr#wie.
+
+Ile cie trzeba cenic, ten tylk# sie d#wie,
+
+Kt# cie stracil. Dzis piekn#sc twa w calej #zd#bie
+
+Widze i #pisuje, b# tesknie p# t#bie.
+
+1789
+r
+#
+k
+-----------------
+Na gorze wynik dzialania sys_replace
+Ponizej wynik dzialania lib_replace
+-----------------
+Litw#! Ojczyzn# m#ja! ty jestes jak zdr#wie.
+
+Ile cie trzeba cenic, ten tylk# sie d#wie,
+
+Kt# cie stracil. Dzis piekn#sc twa w calej #zd#bie
+
+Widze i #pisuje, b# tesknie p# t#bie.
+
+1789
+r
+#
+k
